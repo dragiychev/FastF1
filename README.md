@@ -2,10 +2,10 @@
 
 This repository contains FastF1 analysis and machine learning models for Formula 1 data.
 
-Check *Final Report* for my detailed report on my solution.
-Check *F1_FIRST* for my initial iterations.
-Check *F1_LATEST* for my latest and best model(LSTM).
-Check *Presentation* for the... presentation!
+- Check *Final Report* for my detailed report on my solution.
+- Check *F1_FIRST* for my initial iterations.
+- Check *F1_LATEST* for my latest and best model(LSTM).
+- Check *Presentation* for the... presentation!
 
 ## Project Overview
 
