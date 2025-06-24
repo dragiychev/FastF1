@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+.env
+venv/
+ENV/
+env/
+
+# Cursor IDE
+.cursor/
+
+# F1 Data files
+f1_data.pkl
+*.pkl
+
+# FastF1 cache
+.fastf1_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyTorch model files
+*.pth
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
